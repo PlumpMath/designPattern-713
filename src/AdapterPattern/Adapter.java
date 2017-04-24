@@ -8,7 +8,7 @@ public class Adapter implements Duck {
     Turkey turkey;
 
     public Adapter(Turkey turkey){
-        this.turkey = turkey;
+        this.turkey   = turkey;
     }
 
     @Override
